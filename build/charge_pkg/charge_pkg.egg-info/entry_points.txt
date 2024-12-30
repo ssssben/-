@@ -1,0 +1,3 @@
+[console_scripts]
+battery_talker = charge_pkg.battery_talker:main
+

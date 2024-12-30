@@ -1,0 +1,16 @@
+[0.374s] Invoking command in '/home/bun/ros2_charge_ws/build/charge_pkg': PYTHONPATH=/home/bun/ros2_charge_ws/build/charge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_charge_ws/install/charge_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bun/ros2_charge_ws/build/charge_pkg/build --no-deps
+[0.504s] running develop
+[0.570s] running egg_info
+[0.571s] writing charge_pkg.egg-info/PKG-INFO
+[0.571s] writing dependency_links to charge_pkg.egg-info/dependency_links.txt
+[0.571s] writing entry points to charge_pkg.egg-info/entry_points.txt
+[0.571s] writing requirements to charge_pkg.egg-info/requires.txt
+[0.571s] writing top-level names to charge_pkg.egg-info/top_level.txt
+[0.589s] reading manifest file 'charge_pkg.egg-info/SOURCES.txt'
+[0.589s] writing manifest file 'charge_pkg.egg-info/SOURCES.txt'
+[0.608s] running build_ext
+[0.608s] Creating /home/bun/ros2_charge_ws/install/charge_pkg/lib/python3.8/site-packages/charge-pkg.egg-link (link to .)
+[0.609s] Installing battery_talker script to /home/bun/ros2_charge_ws/install/charge_pkg/bin
+[0.609s] 
+[0.609s] Installed /home/bun/ros2_charge_ws/build/charge_pkg
+[0.628s] Invoked command in '/home/bun/ros2_charge_ws/build/charge_pkg' returned '0': PYTHONPATH=/home/bun/ros2_charge_ws/build/charge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_charge_ws/install/charge_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bun/ros2_charge_ws/build/charge_pkg/build --no-deps

@@ -1,0 +1,19 @@
+[0.493s] Invoking command in '/home/bun/ros2_charge_ws/build/charge_pkg': PYTHONPATH=/home/bun/ros2_charge_ws/build/charge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_charge_ws/install/charge_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bun/ros2_charge_ws/build/charge_pkg/build --no-deps
+[0.637s] running develop
+[0.706s] running egg_info
+[0.706s] creating charge_pkg.egg-info
+[0.706s] writing charge_pkg.egg-info/PKG-INFO
+[0.706s] writing dependency_links to charge_pkg.egg-info/dependency_links.txt
+[0.706s] writing entry points to charge_pkg.egg-info/entry_points.txt
+[0.706s] writing requirements to charge_pkg.egg-info/requires.txt
+[0.706s] writing top-level names to charge_pkg.egg-info/top_level.txt
+[0.712s] writing manifest file 'charge_pkg.egg-info/SOURCES.txt'
+[0.731s] reading manifest file 'charge_pkg.egg-info/SOURCES.txt'
+[0.732s] writing manifest file 'charge_pkg.egg-info/SOURCES.txt'
+[0.755s] running build_ext
+[0.755s] Creating /home/bun/ros2_charge_ws/install/charge_pkg/lib/python3.8/site-packages/site.py
+[0.757s] Creating /home/bun/ros2_charge_ws/install/charge_pkg/lib/python3.8/site-packages/charge-pkg.egg-link (link to .)
+[0.758s] Installing battery_talker script to /home/bun/ros2_charge_ws/install/charge_pkg/bin
+[0.758s] 
+[0.758s] Installed /home/bun/ros2_charge_ws/build/charge_pkg
+[0.777s] Invoked command in '/home/bun/ros2_charge_ws/build/charge_pkg' returned '0': PYTHONPATH=/home/bun/ros2_charge_ws/build/charge_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_charge_ws/install/charge_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bun/ros2_charge_ws/build/charge_pkg/build --no-deps
